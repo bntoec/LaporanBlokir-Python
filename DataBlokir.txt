@@ -1,0 +1,45 @@
+"=============================
+*1. JKXXXX XXXX*
+-  Blokir sementara Layanan Internet, karena belum melakukan pembayaran
+* Feb 2023 = Rp 333,000 
+* Mar 2023 = Rp 333,000
+- Blokir Layanan Inet By System *Done*
+- Test Ping *Unreachable*
+- Update data teknis *Done*
+"
+"=============================
+*2. FIXXXXX XXXXX*
+-  Blokir sementara Layanan Internet, karena belum melakukan pembayaran
+* Feb 2023 = Rp 333,000 
+* Mar 2023 = Rp 333,000
+- Blokir Layanan Inet By System *Done*
+- Test Ping *Unreachable*
+- Update data teknis *Done*
+"
+"=============================
+*3. SETXXXX XXXXXX*
+-  Blokir sementara Layanan Internet, karena belum melakukan pembayaran
+* Feb 2023 = Rp 333,000 
+* Mar 2023 = Rp 333,000
+- Blokir Layanan Inet By System *Done*
+- Test Ping *Unreachable*
+- Update data teknis *Done*
+"
+"=============================
+*4. ToXXXXXX*
+-  Blokir sementara Layanan Internet, karena belum melakukan pembayaran
+* Feb 2023 = Rp 333,000 
+* Mar 2023 = Rp 333,000
+- Blokir Layanan Inet By System *Done*
+- Test Ping *Unreachable*
+- Update data teknis *Done*
+"
+"=============================
+*5. JXXXX AlXXXXXX*
+-  Blokir sementara Layanan Internet, karena belum melakukan pembayaran
+* Feb 2023 = Rp 333,000 
+* Mar 2023 = Rp 333,000
+- Blokir Layanan Inet By System *Done*
+- Test Ping *Unreachable*
+- Update data teknis *Done*
+"
