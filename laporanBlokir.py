@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 from os import getenv
+from alright import WhatsApp
 import time
 
 if __name__ == "__main__":
