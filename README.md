@@ -6,7 +6,8 @@ Cara Kerjanya
 2. Pastikan paste SPK Blokiran pada file DataBlokir.txt
 3. Pilih env python
 4. Jalankan file laporanBlokir.py
-5. Tunggu hingga chrome browser tertutup dengan sendirinya
+5. Selama pengiriman harap tidak memindahkan windows Whatsapp ang terbuka hingga selesai mengirim laporan
+6. Jika sudah tampil laporan selesai pada console, console sudah dapat di close (CTRL+C)
 
 Credit
 - bntoec
