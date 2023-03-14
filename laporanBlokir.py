@@ -22,7 +22,7 @@ if __name__ == "__main__":
         for i in range(0, len(data)):
             messenger.send_message(data[i]) 
             time.sleep(1)
-    
+
     print()
     print()
     print("Laporan telah selesai di kirim, mohon untuk di cek kembali")
