@@ -31,4 +31,4 @@ if __name__ == "__main__":
     print()
     print("Console ini sudah dapat di tutup (CTRL+C)")
     # ini script biar logout setelah kirim
-    # messenger.logout()
+    messenger.logout()
