@@ -29,6 +29,10 @@ if __name__ == "__main__":
     print("Laporan telah selesai di kirim, mohon untuk di cek kembali")
     print("Jika sudah OK, silahkan foward ke grup")
     print()
-    print("Console ini sudah dapat di tutup (CTRL+C)")
-    # ini script biar logout setelah kirim
+    # ini script biar logout setelah 
+    time.sleep(5)
     messenger.logout()
+    print("Logout WA Berhasil")
+
+    print()
+    print("Jika WA Sudah terlogout, console ini sudah dapat di close (CTRL+C)")
